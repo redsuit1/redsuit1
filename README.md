@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @redsuit1
+- 👀 I’m interested in Console hacking, device homebrew, ham radio, combining hobbies
+- 🌱 I’m currently learning Forestry
+- 💞️ I’m looking to collaborate on Software defined radio on devices not intended to be used with it
+- 📫 How to reach me, the.tohme@gmail.com, if I don't message back within a week or two send me one again I am currently living full time on the road and am often out of service
